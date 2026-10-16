@@ -1,0 +1,6 @@
+{
+  "name": "RideWeb",
+  "description": "Classic ride-hailing web platform featuring real-time interactive GPS dispatching, driver and rider flows, and admin operations with an iconic yellow theme.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
